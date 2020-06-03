@@ -15,4 +15,9 @@ public class First {
         System.out.println("test method");
         System.out.println("test method");
     }
+
+    public void test2(){
+        System.out.println("test method2");
+        System.out.println("test method2");
+    }
 }
